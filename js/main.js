@@ -26,6 +26,10 @@ var quoteArray = [
     {// Index = 4
         line: "“Be the change that you wish to see in the world.”",
         author: "― Mahatma Gandhi",
+    },
+    {// Index = 5
+        line: "“Beasdasdasdd.”",
+        author: "― Masdasdasda",
     }
 ];
 var previousIndex;
